@@ -1,7 +1,5 @@
 import sqlalchemy
 import csv
-import tweepy
-import time
 
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String, ForeignKey, and_, or_
